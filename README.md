@@ -1,2 +1,4 @@
-# Technical Writing Portfolio
-Richard Menken's technical writing porfolio
+# Richard Menken - Technical Writing Portfolio
+Welcome to my GitHub page, which provides examples of technical documentation I have created during my career as a technical writer. 
+## About Me
+I am a Senior Technical Writer with 20+ years of experience creating technical documentation for software and manufacturing industries. Proven ability to produce clear, concise, and visually augmented documentation for a range of audiences, including non-technical users, developers, and engineers. Experienced in managing multiple documentation projects simultaneously and working with cross-functional teams in an Agile Scrum environment. Adept at creating structured content using DITA XML and a strong background of integrating illustrations, videos, and photographs into technical manuals and online help systems.
